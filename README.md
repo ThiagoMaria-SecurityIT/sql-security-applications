@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/AI_generated%20SQL-For%20educational%20use%20only-blue.svg"/>  
+
 # SQL for Security Information Analysis
 
 ## Transparency
