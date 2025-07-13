@@ -1,5 +1,12 @@
 # SQL for Security Information Analysis
 
+## Transparency
+
+>[!NOTE]   
+> 📌 AI-Assisted Code Notice  
+> The SQL in this repository was developed with the help of AI tools.  
+>It is intended for educational/demonstration purposes only—review and test thoroughly before any other use.  
+
 This repository contains SQL scripts and database schemas for working with security information, including:
 
 - Security log analysis
@@ -29,3 +36,5 @@ This repository contains SQL scripts and database schemas for working with secur
 ## Contributing
 
 Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines.
+
+
