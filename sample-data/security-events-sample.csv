@@ -6,7 +6,7 @@
  * - All data is artificially generated
  * - No real individuals, organizations, or incidents are represented
  * - IPs use RFC 5737 TEST-NET ranges (192.0.2.0/24, 198.51.100.0/24, 203.0.113.0/24)
- * - Timestamps range from 2023-01-01 to present"											
+ * - Timestamps range from 2023-01-01 to present											
 											
 event_id	 event_time	 event_type	 event_subtype	 source_ip	 user_id	 target_resource	 details	 severity	 is_malicious	 correlation_id	
 1	 '2023-08-13 20:57:32'	 'authentication'	 'success'	 '10.61.249.222'	 'user86'	 'CRM'	 'System authentication event 83eb7e'	 'medium'	 FALSE	 'corr-123a1a98'	
