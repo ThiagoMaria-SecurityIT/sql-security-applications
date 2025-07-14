@@ -7,7 +7,11 @@
 >[!NOTE]   
 > 📌 AI-Assisted Code Notice  
 > - The SQL in this repository was developed with the help of AI tools.  
-> - It is intended for educational/demonstration purposes only—review and test thoroughly before any other use.  
+> - It is intended for educational/demonstration purposes only—review and test thoroughly before any other use.
+
+>[!TIP]
+> - A YouTube video to explain how to use this repo is under progress
+> - Deadline is September, 2025
 
 This repository contains SQL scripts and database schemas for working with security information, including:
 
