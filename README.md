@@ -41,7 +41,7 @@ This repository contains SQL scripts and database schemas for working with secur
 
 ## Contributing
 
-Please see [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines.
+Please see [CONTRIBUTING](docs/CONTRIBUTING.md) for guidelines.
 
 
 ## About the Author   
