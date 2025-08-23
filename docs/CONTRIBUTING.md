@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Thank you for considering contributing to our SQL Security Repository!
+Thank you for considering contributing to my SQL Security Repository!
 
 ## How to Contribute
 
